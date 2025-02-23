@@ -1,0 +1,10 @@
+SMILES,MolecularWeight,Polarity,LogP,RotatableBonds,HBD,HBA,Toxicity,Formula,Bioactivity,SyntheticScore
+CCO,46.07,2.6,0.8,1,1,1,Low,C2H6O,Active,0.8
+CCC,44.1,2.3,1.2,0,0,0,Low,C3H8,Inactive,0.7
+C=O,58.08,3.0,-0.2,0,0,1,High,CH2O,Active,0.9
+CC(=O)O,60.05,4.5,-0.5,1,1,2,Medium,C2H4O2,Active,0.75
+CCN(CC)CC,88.15,3.2,1.6,2,0,0,Low,C6H15N,Inactive,0.6
+C1=CC=CC=C1,78.11,5.1,2.3,0,0,0,Low,C6H6,Active,0.85
+CC(C)CO,74.12,3.8,1.1,1,1,1,Medium,C4H10O,Inactive,0.7
+CC(C)C(=O)O,88.11,4.0,-0.3,1,1,2,Medium,C4H8O2,Active,0.78
+CC(C)C(C)C,86.17,2.9,2.6,2,0,0,Low,C6H14,Inactive,0.65
